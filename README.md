@@ -1,1 +1,2 @@
-# chatbot-llama3
+https://github.com/ollama/ollama
+follow or check above link.
